@@ -12,7 +12,7 @@ const BALL_IMAGE = img`
 
 const PADDLE_SPEED = 150;
 const PADDING_FROM_WALL = 3;
-let pingMessage = false;
+let pingMessage =  false;
 
 // if player doesn't interact for 'TIMEOUT' time, revert to ai
 const TIMEOUT = 5000;
